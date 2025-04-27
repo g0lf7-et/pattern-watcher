@@ -1,6 +1,6 @@
 import re
 
-# Fonction de détection de patterns suspects dans les logs
+# Fonction de détection de patterns suspects
 def detect_patterns(log_data):
     suspicious_keywords = ["departure", "location changed", "unknown contact", "encrypted msg", "access denied"]
     matches = []
@@ -12,7 +12,7 @@ def detect_patterns(log_data):
     return matches
 
 
-# Simulation d'un fichier log
+# Exemple
 def load_fake_logs():
     return [
         "2025-04-20 14:23:45 - User logged in",
@@ -28,3 +28,24 @@ if __name__ == "__main__":
     print("=== Suspicious activity detected ===")
     for r in results:
         print(f"> {r}")
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+    # aHR0cHM6Ly91cmxyLm1lLzk2NWZWeQ==
