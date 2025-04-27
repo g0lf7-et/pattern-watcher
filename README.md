@@ -6,7 +6,7 @@ Programme d'analyse comportementale destiné à repérer des schémas d’activi
 
 ## 🧩 Objectif
 
-Conçu pour **garder un œil sur des mouvements récents**...  
+Conçu pour **garder un œil sur des mouvements récents de ce foutu incapable**...  
 Pas de noms, pas de détails.  
 Juste... des motifs qui reviennent. Encore et encore.
 
