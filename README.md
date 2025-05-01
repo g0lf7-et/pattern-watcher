@@ -1,6 +1,6 @@
 # Pattern Watcher 🧠📡
 
-Programme d'analyse comportementale destiné à repérer des schémas d’activité inhabituels dans des fichiers de logs ou des communications.
+Programme d'analyse comportementale destiné à repérer des schémas d’activité inhabituels dans des fichiers de communications.
 
 ---
 
